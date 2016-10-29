@@ -6,8 +6,7 @@
 
 ## [其他線上讀書會](https://github.com/onlinereadbook/bookangularjs/tree/master/其他線上讀書會)
 
-## 活動列表
-- [2016/11/16][Kevin] yo, Angular CLI, what's up!
+## [活動列表](https://github.com/onlinereadbook/bookangularjs/projects/1)
 
 ---
 
