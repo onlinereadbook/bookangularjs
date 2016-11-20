@@ -10,6 +10,10 @@
 
 ---
 
+# 注意事項
+
+- 本讀書會的相關活動都會以issue加上`event` label的方式標記，相關的討論及訊息都會集中在該issue中
+
 ## 常用工具
 
 - [HackMD - jacky大教學](https://www.youtube.com/watch?v=8maKJ6CJ9no)
