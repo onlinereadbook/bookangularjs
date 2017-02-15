@@ -1,4 +1,11 @@
 # 讀書會過往影片及討論
+### 2017
+|　日期 | 主講者 | 主題 | 連結 |
+| ------ | ------ | ------ | ------ |
+| 02/22 | Kevin  | [S01E03] Component |  |
+| 02/15 | Jeff  | [S01E02] Form | [[影片](https://youtu.be/exGDvyJSmVY)] |
+| 02/08 | Kevin  | [S01E01] Router | [[影片](https://youtu.be/NXfK5yEwtQ0)] |
+
 
 ### 2016
 
