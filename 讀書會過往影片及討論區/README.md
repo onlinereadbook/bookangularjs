@@ -2,7 +2,8 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 02/22 | Kevin  | [S01E03] Component |  |
+| 03/01 | Kevin  | [S01E04] ngModule |  |
+| 02/22 | Kevin  | [S01E03] Component | [影片](https://youtu.be/TMvOew5h85Q) |
 | 02/15 | Jeff  | [S01E02] Form | [[影片](https://youtu.be/exGDvyJSmVY)] |
 | 02/08 | Kevin  | [S01E01] Router | [[影片](https://youtu.be/NXfK5yEwtQ0)] |
 
