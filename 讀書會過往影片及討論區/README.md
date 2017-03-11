@@ -2,6 +2,8 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |  |
+| 03/29 |   | [S01E08]  |  |
 | 03/22 |   | [S01E07] RxJS 基礎篇 |  |
 | 03/15 | Kevin  | [S01E06] Custom Validator |  |
 | 03/08 | Sam  | [S01E05] Dependency Injection | [[影片](https://youtu.be/eisCfNSu8hc)] |
