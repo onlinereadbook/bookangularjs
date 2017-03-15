@@ -2,7 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 04/22 | Shih-li  | [S01E12] TBD  |
+| 04/26 | Shih-li  | [S01E12] TBD  |
 | 04/19 | Sam  | [S01E11] ngrx系列 |  |
 | 04/12 | Jeff  | [S01E10] Directive |  |
 | 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |  |
