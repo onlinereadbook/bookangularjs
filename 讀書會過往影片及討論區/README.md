@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 04/19 | Sam  | [S01E11] ngrx系列 |  |
 | 04/12 | Jeff  | [S01E10] Directive |  |
 | 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |  |
 | 03/29 | Kevin  | [S01E08] 測試 - service |  |
