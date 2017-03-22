@@ -9,7 +9,7 @@
 | 04/12 | Jeff  | [S01E10] Directive |  |
 | 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |  |
 | 03/29 | Kevin  | [S01E08] 測試 - service |  |
-| 03/22 |   | [S01E07] RxJS 基礎篇 |  |
+| 03/22 | Kevin  | [S01E07] RxJS 基礎篇 | [[影片](https://youtu.be/4unKuzt7r-I)] |
 | 03/15 | Kevin  | [S01E06] Custom Validator |[[影片](https://youtu.be/OqTCOQQR5ZI)]  |
 | 03/08 | Sam  | [S01E05] Dependency Injection | [[影片](https://youtu.be/eisCfNSu8hc)] |
 | 03/01 | Kevin  | [S01E04] ngModule | [[影片](https://youtu.be/TnIytuEfhdg)] |
