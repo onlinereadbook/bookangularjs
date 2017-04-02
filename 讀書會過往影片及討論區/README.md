@@ -5,7 +5,7 @@
 | 05/10 | 黃升煌 | [S01E15] Electron & NativeScript開發經驗分享  |
 | 05/03 | Recca | [S01E13] RxJS 與 測試  |
 | 04/26 | Shih-li  | [S01E12] structural directive  |
-| 04/19 | Sam  | [S01E11] ngrx系列 |  |
+| 04/19 | Sam  | [S01E11]  Redux 101 for Angular |  |
 | 04/12 | Jeff  | [S01E10] Directive |  |
 | 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |  |
 | 03/29 | Kevin  | [S01E08] 測試 - service |[[影片](https://youtu.be/HoEB_9TYe70)]  |
