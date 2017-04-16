@@ -2,8 +2,8 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 05/17 | Kevin | [S01E16] Pipe. 第一季結束  |
-| 05/10 | 黃升煌 | [S01E15] Electron & NativeScript開發經驗分享  |
+| 05/17 | Kevin | [S01E15] Pipe. 第一季結束  |
+| 05/10 | 黃升煌 | [S01E14] Electron & NativeScript開發經驗分享  |
 | 05/03 | Recca | [S01E13] RxJS 與 測試  |
 | 04/26 | Shih-li  | [S01E12] structural directive  |
 | 04/19 | Sam  | [S01E11]  Redux 101 for Angular |  |
