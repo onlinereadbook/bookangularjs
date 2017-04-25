@@ -2,8 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 05/24 | Sam | [S01E16] ngModule - Provider. 第一季真的結束  ||
-| 05/17 | PoyChang/Kevin | [S01E15] 微應用：Angular & Line Notify / Pipe. 第一季結束(假的)  ||
+| 05/17 | PoyChang/Kevin | [S01E15] 微應用：Angular & Line Notify / Pipe. 第一季結束  ||
 | 05/10 | 黃升煌 | [S01E14] Electron & NativeScript開發經驗分享  ||
 | 05/03 | Recca | [S01E13] RxJS 與 測試  ||
 | 04/26 | Shih-li  | [S01E12] structural directive  ||
