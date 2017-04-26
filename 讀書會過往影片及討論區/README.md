@@ -5,7 +5,7 @@
 | 05/17 | PoyChang/Kevin | [S01E15] 微應用：Angular & Line Notify / Pipe. 第一季結束  ||
 | 05/10 | 黃升煌 | [S01E14] Electron & NativeScript開發經驗分享  ||
 | 05/03 | Recca | [S01E13] RxJS 與 測試  ||
-| 04/26 | Shih-li  | [S01E12] structural directive  ||
+| 04/26 | Shih-li  | [S01E12] structural directive  |[[影片](https://youtu.be/toGguQgK72s)]|
 | 04/19 | Sam  | [S01E11]  Redux 101 for Angular | [[影片](https://youtu.be/hJtUdXqPLDc)]  |
 | 04/12 | Jeff  | [S01E10] Directive | [[影片](https://youtu.be/PxXMnEFlixg)] |
 | 04/05 | Jimmy  | [S01E09] HostBinding & HostListener |[[影片](https://youtu.be/LTKcmefJoNU)]  |
