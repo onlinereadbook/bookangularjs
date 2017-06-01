@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 06/07 | PH | [S02E01][新手村] Angular前置作業 ||
 | 05/31 | polo | [一起來學習篇] graphql後端實作觀念分享 |[影片](https://youtu.be/peNdqITwSck)]|
 | 05/31 | Kevin | [一起來學習篇] RxJS、decorator |[影片](https://youtu.be/EbdxbsrwUqI)]|
 | 05/24 | Kevin / Sam | [一起來學習篇] 你有好好的認識 Typescript 嗎? |[[影片](https://youtu.be/qUjn1QbYmcw)]|
