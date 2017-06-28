@@ -2,7 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 06/28 | 默司 | [S02E04][新手村] Directive & Pipe ||
+| 06/28 | 默司 | [S02E04][新手村] Directive & Pipe |[[影片](https://youtu.be/BfoSYUrk9zo)]|
 | 06/21 | Ryan | [S02E03][新手村] Component |[[影片](https://youtu.be/GLdSHeoB438)]|
 | 06/14 | Sam | [S02E02][新手村] Typescript 101 |[[影片](youtube.com/watch?v=igfVmEu8nyQ)]|
 | 06/07 | PH | [S02E01][新手村] Angular前置作業 |[[影片](https://youtu.be/uvXq5v6BOKA)]|
