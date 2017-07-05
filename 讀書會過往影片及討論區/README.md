@@ -2,7 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 07/05 | t7yang | [S02E05][新手村] 表單 Form ||
+| 07/05 | t7yang | [S02E05][新手村] 表單 Form |[[影片](https://youtu.be/pi7Zs1_680M)]|
 | 06/28 | 默司 | [S02E04][新手村] Directive & Pipe |[[影片](https://youtu.be/BfoSYUrk9zo)]|
 | 06/21 | Ryan | [S02E03][新手村] Component |[[影片](https://youtu.be/GLdSHeoB438)]|
 | 06/14 | Sam | [S02E02][新手村] Typescript 101 |[[影片](youtube.com/watch?v=igfVmEu8nyQ)]|
