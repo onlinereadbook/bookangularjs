@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 07/12 | Jeff | [S02E06][新手村] DI & Provider ||
 | 07/05 | t7yang | [S02E05][新手村] 表單 Form |[[影片](https://youtu.be/pi7Zs1_680M)]|
 | 06/28 | 默司 | [S02E04][新手村] Directive & Pipe |[[影片](https://youtu.be/BfoSYUrk9zo)]|
 | 06/21 | Ryan | [S02E03][新手村] Component |[[影片](https://youtu.be/GLdSHeoB438)]|
