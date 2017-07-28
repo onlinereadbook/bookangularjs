@@ -6,8 +6,8 @@
 | 08/16 | 柏任 | [S02E11][新手村] Angular Router 路由 ||
 | 08/09 | Kevin | [S02E10][新手村] 實作(3) ||
 | 08/02 | Poy | [S02E09][新手村] 實作(2) ||
-| 07/26 | PH | [S02E08][新手村] 實作(1) ||
-| 07/19 | Jimmy | [S02E07][新手村] RxJS 基本用法 ||
+| 07/26 | PH | [S02E08][新手村] 實作(1) |[[影片](https://youtu.be/I1Js6yDL0Tw)]|
+| 07/19 | Jimmy | [S02E07][新手村] RxJS 基本用法 |[[影片](https://youtu.be/lZ7HEiC5kjo)]|
 | 07/12 | Jeff | [S02E06][新手村] DI & Provider |[[影片](https://youtu.be/MuUcN_9WRBo)]|
 | 07/05 | t7yang | [S02E05][新手村] 表單 Form |[[影片](https://youtu.be/pi7Zs1_680M)]|
 | 06/28 | 默司 | [S02E04][新手村] Directive & Pipe |[[影片](https://youtu.be/BfoSYUrk9zo)]|
