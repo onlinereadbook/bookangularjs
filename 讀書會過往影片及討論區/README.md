@@ -5,7 +5,7 @@
 | 08/23 | 潘拉拉 | [S02E12][新手村] Git Submodule 的應用 ||
 | 08/16 | 柏任 | [S02E11][新手村] Angular Router 路由 ||
 | 08/09 | Kevin | [S02E10][新手村] 實作(3) ||
-| 08/02 | Poy | [S02E09][新手村] 實作(2) ||
+| 08/02 | Poy | [S02E09][新手村] 實作(2) |[[影片](https://youtu.be/ZnBFsI3qTVc)]|
 | 07/26 | PH | [S02E08][新手村] 實作(1) |[[影片](https://youtu.be/I1Js6yDL0Tw)]|
 | 07/19 | Jimmy | [S02E07][新手村] RxJS 基本用法 |[[影片](https://youtu.be/lZ7HEiC5kjo)]|
 | 07/12 | Jeff | [S02E06][新手村] DI & Provider |[[影片](https://youtu.be/MuUcN_9WRBo)]|
