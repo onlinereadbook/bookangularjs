@@ -2,9 +2,13 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 08/23 | 潘拉拉 | [S02E12][新手村] Git Submodule 的應用 ||
-| 08/16 | 柏任 | [S02E11][新手村] Angular Router 路由 ||
-| 08/09 | Kevin | [S02E10][新手村] 實作(3) ||
+| 10/25 | Sam | [S03E04] ATDD 測試觀念及手法 | [[影片](https://youtu.be/6PXapFk3qEg)]|
+| 10/25 | Jeff | [S03E03] ngx-translate | [[影片](https://youtu.be/l_eA6ti41ww)]|
+| 10/18 | Jimmy | [S03E02] Jasmine & Protractor | [[影片](https://youtu.be/7PvkoPzOBks)]|
+| 10/11 | Kevin | [S03E01] RxJS 與 Promise | [[影片](https://youtu.be/DZk9isnp0zc)]|
+| 08/23 | 潘拉拉 | [S02E12][新手村] Git Submodule 的應用 | PENDING|
+| 08/16 | 柏任 | [S02E11][新手村] Angular Router 路由 |[[影片]( https://youtu.be/TmVcrAITWek)]|
+| 08/09 | Kevin | [S02E10][新手村] 實作(3) |[[影片](https://youtu.be/MldaU6_VjXw)]|
 | 08/02 | Poy | [S02E09][新手村] 實作(2) |[[影片](https://youtu.be/ZnBFsI3qTVc)]|
 | 07/26 | PH | [S02E08][新手村] 實作(1) |[[影片](https://youtu.be/I1Js6yDL0Tw)]|
 | 07/19 | Jimmy | [S02E07][新手村] RxJS 基本用法 |[[影片](https://youtu.be/lZ7HEiC5kjo)]|
