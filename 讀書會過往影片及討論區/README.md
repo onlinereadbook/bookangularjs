@@ -2,7 +2,8 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 10/25 | Sam | [S03E04] ATDD 測試觀念及手法 | [[影片](https://youtu.be/6PXapFk3qEg)]|
+| 11/08 | Will | [S03E05] TypeScript 綜合格鬥技 | [[影片](https://youtu.be/hZIPnEF-_PY)]|
+| 11/01 | Sam | [S03E04] ATDD 測試觀念及手法 | [[影片](https://youtu.be/6PXapFk3qEg)]|
 | 10/25 | Jeff | [S03E03] ngx-translate | [[影片](https://youtu.be/l_eA6ti41ww)]|
 | 10/18 | Jimmy | [S03E02] Jasmine & Protractor | [[影片](https://youtu.be/7PvkoPzOBks)]|
 | 10/11 | Kevin | [S03E01] RxJS 與 Promise | [[影片](https://youtu.be/DZk9isnp0zc)]|
