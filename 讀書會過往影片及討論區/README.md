@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 11/15 | Sam | [S03E06] Angular 測試手法 | [[影片](https://youtu.be/uhrbsWFrix0)]|
 | 11/08 | Will | [S03E05] TypeScript 綜合格鬥技 | [[影片](https://youtu.be/hZIPnEF-_PY)]|
 | 11/01 | Sam | [S03E04] ATDD 測試觀念及手法 | [[影片](https://youtu.be/6PXapFk3qEg)]|
 | 10/25 | Jeff | [S03E03] ngx-translate | [[影片](https://youtu.be/l_eA6ti41ww)]|
