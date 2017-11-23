@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 11/22 | 小風 | [S03E07] 使用 Cucumber.js 讓測試更好懂 | [[影片](https://youtu.be/yiMGanbHdko)]|
 | 11/15 | Sam | [S03E06] Angular 測試手法 | [[影片](https://youtu.be/uhrbsWFrix0)]|
 | 11/08 | Will | [S03E05] TypeScript 綜合格鬥技 | [[影片](https://youtu.be/hZIPnEF-_PY)]|
 | 11/01 | Sam | [S03E04] ATDD 測試觀念及手法 | [[影片](https://youtu.be/6PXapFk3qEg)]|
