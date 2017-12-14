@@ -2,6 +2,7 @@
 ### 2017
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 12/13 | Chris 江江 | [S03E10] Karma 測試框架 | [[影片](https://youtu.be/Po_Z068gUSk)]|
 | 12/06 | Ben | [S03E09] Angular Host Element | [[影片](https://youtu.be/lKrjsvegZQk)]|
 | 11/29 | Alan Tai | [S03E08] CI Pipeline for Angular | [[影片](https://youtu.be/YZC0HyZdV5o)]|
 | 11/22 | 小風 | [S03E07] 使用 Cucumber.js 讓測試更好懂 | [[影片](https://youtu.be/yiMGanbHdko)]|
