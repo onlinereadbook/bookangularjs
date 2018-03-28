@@ -2,7 +2,9 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 03/13 | Sam & Kevin | [無主題E08] 無主題亂聊 | [[影片](https://youtu.be/2gfIibIkymM)] |
+| 03/28 | Jimmy | [無主題E10] PrimeNG | [[影片](https://youtu.be/SkwEBL6U014)] |
+| 03/21 | Kevin | [無主題E09] NGXS/[文章分享-Machine Learning-Driven Bundling](http://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/) | 無影片 |
+| 03/14 | Sam & Kevin | [無主題E08] 無主題亂聊 | [[影片](https://youtu.be/2gfIibIkymM)] |
 | 02/28 | Kevin | [無主題E07] 無主題亂聊 | 無影片 |
 | 02/21 | Sam | [無主題E06] 無主題亂聊 | 無影片 |
 | 02/07 | Kevin | [無主題E05] 無主題亂聊 | 無影片 |
