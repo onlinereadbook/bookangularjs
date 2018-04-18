@@ -2,7 +2,7 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 04/18 | Jeff | [S04E02] Cordova 推播訊息功能 | [[影片]()] |
+| 04/18 | Jeff | [S04E02] Cordova 推播訊息功能 | [[影片](https://youtu.be/NYh6i-zNK2k)] |
 | 04/11 | Jeff | [S04E01] Hello Cordova | [[影片](https://youtu.be/AQUs2HQEC7s)] |
 | 03/28 | Jimmy | [無主題E10] PrimeNG | [[影片](https://youtu.be/SkwEBL6U014)] |
 | 03/21 | Kevin | [無主題E09] NGXS/[文章分享-Machine Learning-Driven Bundling](http://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/) | 無影片 |
