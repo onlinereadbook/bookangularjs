@@ -2,6 +2,11 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 05/23 | Jeff | [S04E07]  Cordova Plugin File System - 使用 cordova-plugin-file 進行 Cordova App 檔案操作 | [[影片](https://youtu.be/oz4BOlsajsA)] |
+| 05/16 | Recca Tsai | [S04E06] 如何利用 tdd 的 方式來實作 Ionic + Push Notification | [[影片](https://youtu.be/hdKePKwkDzc)] |
+| 05/09 | Mark Huang | [S04E05] VSCode + Cordova + AngularJS + TypeScript  + Onsen UI | [[影片](https://youtu.be/bzmMuhJySys)] |
+| 05/02 | Jeff | [S04E04] ordova 推播訊息功能 - iOS 篇 | [[影片](https://youtu.be/jIw_L0OO00U)] |
+| 04/25 | Peter Lai | [S04E03] Hello Ionic, ionic component | [[影片](https://youtu.be/LQ5UkTwaqik)] |
 | 04/18 | Jeff | [S04E02] Cordova 推播訊息功能 | [[影片](https://youtu.be/NYh6i-zNK2k)] |
 | 04/11 | Jeff | [S04E01] Hello Cordova | [[影片](https://youtu.be/AQUs2HQEC7s)] |
 | 03/28 | Jimmy | [無主題E10] PrimeNG | [[影片](https://youtu.be/SkwEBL6U014)] |
