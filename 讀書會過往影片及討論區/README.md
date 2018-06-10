@@ -2,6 +2,11 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
+| 06/27 | Mike | [S04E12] Cypress.io - 優雅的E2E測試 | | 
+| 06/20 | Mark Huang | [S04E11]  Cordova Plugin 系列之 NFC |  | 
+| 06/13 | Jeff | [S04E10]  Cordova Plugin 系列之 Camera (照相 & 選相片)） |  | 
+| 06/06 | Jeff | [S04E09]  Cordova Plugin 系列之 Geolocation （合法的 GPS 追蹤） | [影片](https://youtu.be/xTAPNlPZ4_M) | 
+| 05/30 | 無 | [S04E08]  休息一回 | | 
 | 05/23 | Jeff | [S04E07]  Cordova Plugin File System - 使用 cordova-plugin-file 進行 Cordova App 檔案操作 | [[影片](https://youtu.be/oz4BOlsajsA)] |
 | 05/16 | Recca Tsai | [S04E06] 如何利用 tdd 的 方式來實作 Ionic + Push Notification | [[影片](https://youtu.be/hdKePKwkDzc)] |
 | 05/09 | Mark Huang | [S04E05] VSCode + Cordova + AngularJS + TypeScript  + Onsen UI | [[影片](https://youtu.be/bzmMuhJySys)] |
