@@ -2,9 +2,10 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 06/27 | Mike | [S04E12] Cypress.io - 優雅的E2E測試 | | 
-| 06/20 | Mark Huang | [S04E11]  Cordova Plugin 系列之 NFC |  | 
-| 06/13 | Kevin | [S04E10] NGXS 、Websocket + RxJS |  | 
+| 07/11 | Kevin | [S05E01][RxJS 系列] JS Array | | 
+| 06/27 | Mike, Yadong Xie | [S04E12] Cypress.io - 優雅的E2E測試 & NG-ZORRO| [[影片](https://youtu.be/uNxkrTX_xmI)] | 
+| 06/20 | Jimmy | [S04E11]  TIL - Angular Library | [[影片]( https://youtu.be/ndt77z5SMJs)] | 
+| 06/13 | Kevin | [S04E10] NGXS 、Websocket + RxJS | [[影片]](https://youtu.be/3QgqL8FTcEM) | 
 | 06/06 | Jeff | [S04E09]  Cordova Plugin 系列之 Geolocation （合法的 GPS 追蹤） | [影片](https://youtu.be/xTAPNlPZ4_M) | 
 | 05/30 | 無 | [S04E08]  休息一回 | | 
 | 05/23 | Jeff | [S04E07]  Cordova Plugin File System - 使用 cordova-plugin-file 進行 Cordova App 檔案操作 | [[影片](https://youtu.be/oz4BOlsajsA)] |
