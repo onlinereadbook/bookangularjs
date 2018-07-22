@@ -2,7 +2,9 @@
 ### 2018
 |　日期 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ | ------ |
-| 07/11 | Kevin | [S05E01][RxJS 系列] JS Array | | 
+| 07/25 | Kevin | [S05E03][RxJS 系列] RxJS 基本介紹 - Promise & Iterator | | 
+| 07/18 | Kevin | [S05E02][RxJS 系列] Functional Programming in JavaScript - online practice | | 
+| 07/11 | Kevin | [S05E01][RxJS 系列] JS Array |[[影片](https://youtu.be/5vxjNo7uDbo)] | 
 | 06/27 | Mike, Yadong Xie | [S04E12] Cypress.io - 優雅的E2E測試 & NG-ZORRO| [[影片](https://youtu.be/uNxkrTX_xmI)] | 
 | 06/20 | Jimmy | [S04E11]  TIL - Angular Library | [[影片]( https://youtu.be/ndt77z5SMJs)] | 
 | 06/13 | Kevin | [S04E10] NGXS 、Websocket + RxJS | [[影片]](https://youtu.be/3QgqL8FTcEM) | 
